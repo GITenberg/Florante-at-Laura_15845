@@ -25,6 +25,8 @@ creator:
     - http://tl.wikipedia.org/wiki/Francisco_Balagtas
     - http://en.wikipedia.org/wiki/Francisco_Balagtas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15845#Florante-at-Laura
 gutenberg_issued: '2005-05-17'
 gutenberg_type: Text
 identifiers:
