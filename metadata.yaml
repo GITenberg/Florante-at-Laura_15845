@@ -1,0 +1,40 @@
+_repo: Florante-at-Laura_15845
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Ronquillo y Valdez, Carlos
+    alias: Valdez, Carlos Ronquillo y
+    birthdate: 1877
+    deathdate: 1941
+    gutenberg_agent_id: '6338'
+    url: http://www.gutenberg.org/2009/agents/6338
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balagtas, Francisco
+    aliases:
+    - Baltasar, Francisco
+    - Baltazar, Francisco
+    birthdate: 1788
+    deathdate: 1862
+    gutenberg_agent_id: '6106'
+    url: http://www.gutenberg.org/2009/agents/6106
+    wikipedia:
+    - http://tl.wikipedia.org/wiki/Francisco_Balagtas
+    - http://en.wikipedia.org/wiki/Francisco_Balagtas
+description: ''
+gutenberg_issued: '2005-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15845'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Tagalog poetry'
+title: Florante at Laura
+url: http://www.gutenberg.org/ebooks/15845
